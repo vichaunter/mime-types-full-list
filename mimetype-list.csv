@@ -1,0 +1,60 @@
+extension,mimetype,Description
+.3g2,video/3gpp2,Contenedor de audio/video 3GPP2
+.3gp,video/3gpp,Contenedor de audio/video 3GPP
+.7z,application/x-7z-compressed,Archivo 7-zip
+.aac,audio/aac,Archivo de audio AAC
+.abw,application/x-abiword,Documento AbiWord
+.arc,application/octet-stream,Documento de Archivo (múltiples archivos incrustados)
+.avi,video/x-msvideo,AVI: Audio Video Intercalado
+.azw,application/vnd.amazon.ebook,Formato  eBook Amazon Kindle
+.bin,application/octet-stream,Cualquier tipo de datos binarios
+.bz,application/x-bzip,Archivo BZip
+.bz2,application/x-bzip2,Archivo BZip2
+.csh,application/x-csh,Script C-Shell
+.css,text/css,Hojas de estilo (CSS)
+.csv,text/csv,Valores separados por coma (CSV)
+.doc,application/msword,Microsoft Word
+.epub,application/epub+zip,Publicación Electrónica (EPUB)
+.gif,image/gif,Graphics Interchange Format (GIF)
+.htm,,
+.html,text/html,Hipertexto (HTML)
+.ico,image/x-icon,Formato Icon
+.ics,text/calendar,Formato iCalendar
+.jar,application/java-archive,Archivo Java (JAR)
+.jpeg,,
+.jpg,image/jpeg,Imágenes JPEG
+.js,application/javascript,JavaScript (ECMAScript)
+.json,application/json,Formato JSON
+.mid,,
+.midi,audio/midi,Interfaz Digital de Instrumentos Musicales (MIDI)
+.mpeg,video/mpeg,Video MPEG
+.mpkg,application/vnd.apple.installer+xml,Paquete de instalación de Apple
+.odp,application/vnd.oasis.opendocument.presentation,Documento de presentación de OpenDocument
+.ods,application/vnd.oasis.opendocument.spreadsheet,Hoja de Cálculo OpenDocument
+.odt,application/vnd.oasis.opendocument.text,Documento de texto OpenDocument
+.oga,audio/ogg,Audio OGG
+.ogv,video/ogg,Video OGG
+.ogx,application/ogg,OGG
+.pdf,application/pdf,Adobe Portable Document Format (PDF)
+.ppt,application/vnd.ms-powerpoint,Microsoft PowerPoint
+.rar,application/x-rar-compressed,Archivo RAR
+.rtf,application/rtf,Formato de Texto Enriquecido (RTF)
+.sh,application/x-sh,Script Bourne shell
+.svg,image/svg+xml,Gráficos Vectoriales (SVG)
+.swf,application/x-shockwave-flash,Small web format (SWF) o Documento Adobe Flash
+.tar,application/x-tar,Aerchivo Tape (TAR)
+.tif,,
+.tiff,image/tiff,Formato de archivo de imagen etiquetado (TIFF)
+.ttf,font/ttf,Fuente TrueType
+.vsd,application/vnd.visio,Microsft Visio
+.wav,audio/x-wav,Formato de audio de forma de onda (WAV)
+.weba,audio/webm,Audio WEBM
+.webm,video/webm,Video WEBM
+.webp,image/webp,Imágenes WEBP
+.woff,font/woff,Formato de fuente abierta web (WOFF)
+.woff2,font/woff2,Formato de fuente abierta web (WOFF)
+.xhtml,application/xhtml+xml,XHTML
+.xls,application/vnd.ms-excel,Microsoft Excel
+.xml,application/xml,XML
+.xul,application/vnd.mozilla.xul+xml,XUL
+.zip,application/zip,Archivo ZIP
